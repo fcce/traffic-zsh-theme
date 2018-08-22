@@ -8,7 +8,7 @@
 
 Clone this repo:
 
-    git clone git@github.com:fcce/traffic-zsh-theme.git "$ZSH_CUSTOM/themes/traffic-zsh-theme"
+    git clone https://github.com/fcce/traffic-zsh-theme.git "$ZSH_CUSTOM/themes/traffic-zsh-theme"
 
 Symlink `traffic.zsh-theme` to your oh-my-zsh custom themes directory:
 
