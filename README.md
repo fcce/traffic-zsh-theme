@@ -2,7 +2,7 @@
 
 ## Preview
 
-![](https://ws1.sinaimg.cn/large/6478deb5ly1fubfepxih2j20jo0c275t.jpg)
+![](https://i.imgur.com/HV9eh57.png)
 
 ## How to use
 
